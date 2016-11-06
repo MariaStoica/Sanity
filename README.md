@@ -1,0 +1,4 @@
+# Sanity
+
+A mood viewer.
+

@@ -1,0 +1,1917 @@
+<Root><Timepiece name="Timepiece 0">
+	<StartDate date="03 Jan 2016"/>
+	<EndDate date="18 Feb 2016"/>
+	<Activities>
+		<Day date="03 Jan 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+		</Day>
+		<Day date="04 Jan 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Activity name="activity 10"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="05 Jan 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+		</Day>
+		<Day date="06 Jan 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+		</Day>
+		<Day date="07 Jan 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+		</Day>
+		<Day date="08 Jan 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="09 Jan 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="10 Jan 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="11 Jan 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+		</Day>
+		<Day date="12 Jan 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+		</Day>
+		<Day date="13 Jan 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="14 Jan 2016">
+			<Mood code="happy"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+		</Day>
+		<Day date="15 Jan 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+		</Day>
+		<Day date="16 Jan 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+		</Day>
+		<Day date="17 Jan 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="18 Jan 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="19 Jan 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+		</Day>
+		<Day date="20 Jan 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="21 Jan 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="22 Jan 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="23 Jan 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+		</Day>
+		<Day date="24 Jan 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+		</Day>
+		<Day date="25 Jan 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="26 Jan 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+		</Day>
+		<Day date="27 Jan 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="28 Jan 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="29 Jan 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+		</Day>
+		<Day date="30 Jan 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="31 Jan 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="01 Feb 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="02 Feb 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+			<Activity name="activity 10"/>
+			<Activity name="activity 11"/>
+		</Day>
+		<Day date="03 Feb 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+		</Day>
+		<Day date="04 Feb 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="05 Feb 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="06 Feb 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<Activity name="activity 10"/>
+		</Day>
+		<Day date="07 Feb 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="08 Feb 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+		</Day>
+		<Day date="09 Feb 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="10 Feb 2016">
+			<Mood code="trigger"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+		</Day>
+		<Day date="11 Feb 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+		</Day>
+		<Day date="12 Feb 2016">
+			<Mood code="pit"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="13 Feb 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+		</Day>
+		<Day date="14 Feb 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="15 Feb 2016">
+			<Mood code="happy"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+		</Day>
+		<Day date="16 Feb 2016">
+			<Mood code="chaos"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="17 Feb 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+		</Day>
+	</Activities>
+</Timepiece>
+<Timepiece name="Timepiece 1">
+	<StartDate date="03 Mar 2016"/>
+	<EndDate date="06 Apr 2016"/>
+	<Activities>
+		<Day date="03 Mar 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 11"/>
+		</Day>
+		<Day date="04 Mar 2016">
+			<Mood code="happy"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Activity name="activity 10"/>
+			<Activity name="activity 11"/>
+			<Activity name="activity 12"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="05 Mar 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="06 Mar 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+		</Day>
+		<Day date="07 Mar 2016">
+			<Mood code="chaos"/>
+			<Activity name="activity 0"/>
+		</Day>
+		<Day date="08 Mar 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+			<Activity name="activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+			<Activity name="activity 12"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="09 Mar 2016">
+			<Mood code="sad"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 12"/>
+			<Activity name="activity 13"/>
+		</Day>
+		<Day date="10 Mar 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+		</Day>
+		<Day date="11 Mar 2016">
+			<Mood code="trigger"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+		</Day>
+		<Day date="12 Mar 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="13 Mar 2016">
+			<Mood code="pit"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="14 Mar 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="15 Mar 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="16 Mar 2016">
+			<Mood code="happy"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 13"/>
+		</Day>
+		<Day date="17 Mar 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="18 Mar 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="19 Mar 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="20 Mar 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+		</Day>
+		<Day date="21 Mar 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+		</Day>
+		<Day date="22 Mar 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+		</Day>
+		<Day date="23 Mar 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="24 Mar 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="25 Mar 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+		</Day>
+		<Day date="26 Mar 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+		</Day>
+		<Day date="27 Mar 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="28 Mar 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+			<Activity name="activity 12"/>
+			<Activity name="activity 13"/>
+		</Day>
+		<Day date="29 Mar 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 13"/>
+		</Day>
+		<Day date="30 Mar 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="31 Mar 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="01 Apr 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+		</Day>
+		<Day date="02 Apr 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+		</Day>
+		<Day date="03 Apr 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="04 Apr 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="05 Apr 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+		</Day>
+	</Activities>
+</Timepiece>
+<Timepiece name="Timepiece 2">
+	<StartDate date="20 Apr 2016"/>
+	<EndDate date="02 May 2016"/>
+	<Activities>
+		<Day date="20 Apr 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="21 Apr 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+		</Day>
+		<Day date="22 Apr 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="23 Apr 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+		</Day>
+		<Day date="24 Apr 2016">
+			<Mood code="happy"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="25 Apr 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="26 Apr 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="27 Apr 2016">
+			<Mood code="happy"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="28 Apr 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+		</Day>
+		<Day date="29 Apr 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 12"/>
+		</Day>
+		<Day date="30 Apr 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+			<ImportantActivity name="imp activity 11"/>
+		</Day>
+		<Day date="01 May 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+		</Day>
+	</Activities>
+</Timepiece>
+<Timepiece name="Timepiece 3">
+	<StartDate date="16 May 2016"/>
+	<EndDate date="17 Jun 2016"/>
+	<Activities>
+		<Day date="16 May 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="17 May 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+		</Day>
+		<Day date="18 May 2016">
+			<Mood code="pit"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="19 May 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="20 May 2016">
+			<Mood code="sad"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+		</Day>
+		<Day date="21 May 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="22 May 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="23 May 2016">
+			<Mood code="trigger"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="24 May 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+		</Day>
+		<Day date="25 May 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+		</Day>
+		<Day date="26 May 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="27 May 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="28 May 2016">
+			<Mood code="trigger"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+		</Day>
+		<Day date="29 May 2016">
+			<Mood code="happy"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+		</Day>
+		<Day date="30 May 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="31 May 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="01 Jun 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+		</Day>
+		<Day date="02 Jun 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+		</Day>
+		<Day date="03 Jun 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="04 Jun 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="05 Jun 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+		</Day>
+		<Day date="06 Jun 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+		</Day>
+		<Day date="07 Jun 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="08 Jun 2016">
+			<Mood code="sad"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="09 Jun 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="10 Jun 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+		</Day>
+		<Day date="11 Jun 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Activity name="activity 10"/>
+			<Activity name="activity 11"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="12 Jun 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+		</Day>
+		<Day date="13 Jun 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+			<Activity name="activity 12"/>
+			<Activity name="activity 13"/>
+		</Day>
+		<Day date="14 Jun 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="15 Jun 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="16 Jun 2016">
+			<Mood code="trigger"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+		</Day>
+	</Activities>
+</Timepiece>
+<Timepiece name="Timepiece 4">
+	<StartDate date="01 Jul 2016"/>
+	<EndDate date="26 Aug 2016"/>
+	<Activities>
+		<Day date="01 Jul 2016">
+			<Mood code="trigger"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 12"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="02 Jul 2016">
+			<Mood code="happy"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="03 Jul 2016">
+			<Mood code="pit"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="04 Jul 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+		</Day>
+		<Day date="05 Jul 2016">
+			<Mood code="trigger"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="06 Jul 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+		</Day>
+		<Day date="07 Jul 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="08 Jul 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+		</Day>
+		<Day date="09 Jul 2016">
+			<Mood code="happy"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="10 Jul 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+		</Day>
+		<Day date="11 Jul 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+		</Day>
+		<Day date="12 Jul 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+		</Day>
+		<Day date="13 Jul 2016">
+			<Mood code="frustrated"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="14 Jul 2016">
+			<Mood code="happy"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+		</Day>
+		<Day date="15 Jul 2016">
+			<Mood code="chaos"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="16 Jul 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 10"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 12"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="17 Jul 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+		</Day>
+		<Day date="18 Jul 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+		</Day>
+		<Day date="19 Jul 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+		</Day>
+		<Day date="20 Jul 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+		</Day>
+		<Day date="21 Jul 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="22 Jul 2016">
+			<Mood code="chaos"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="23 Jul 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+		</Day>
+		<Day date="24 Jul 2016">
+			<Mood code="sad"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+		</Day>
+		<Day date="25 Jul 2016">
+			<Mood code="pit"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+		</Day>
+		<Day date="26 Jul 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="27 Jul 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+		</Day>
+		<Day date="28 Jul 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+		</Day>
+		<Day date="29 Jul 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+		</Day>
+		<Day date="30 Jul 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 11"/>
+			<Activity name="activity 12"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="31 Jul 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+		</Day>
+		<Day date="01 Aug 2016">
+			<Mood code="happy"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 12"/>
+		</Day>
+		<Day date="02 Aug 2016">
+			<Mood code="trigger"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+		</Day>
+		<Day date="03 Aug 2016">
+			<Mood code="frustrated"/>
+			<ImportantActivity name="imp activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+		</Day>
+		<Day date="04 Aug 2016">
+			<Mood code="trigger"/>
+			<ImportantActivity name="imp activity 0"/>
+		</Day>
+		<Day date="05 Aug 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="06 Aug 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="07 Aug 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Activity name="activity 4"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 9"/>
+			<Activity name="activity 10"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 12"/>
+		</Day>
+		<Day date="08 Aug 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Activity name="activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 11"/>
+		</Day>
+		<Day date="09 Aug 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+		<Day date="10 Aug 2016">
+			<Mood code="sad"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+		</Day>
+		<Day date="11 Aug 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+		</Day>
+		<Day date="12 Aug 2016">
+			<Mood code="pit"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<Result name="Invitation to speak"/>
+		</Day>
+		<Day date="13 Aug 2016">
+			<Mood code="chaos"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 8"/>
+		</Day>
+		<Day date="14 Aug 2016">
+			<Mood code="chaos"/>
+			<ImportantActivity name="imp activity 0"/>
+		</Day>
+		<Day date="15 Aug 2016">
+			<Mood code="pit"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 2"/>
+		</Day>
+		<Day date="16 Aug 2016">
+			<Mood code="trigger"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+		</Day>
+		<Day date="17 Aug 2016">
+			<Mood code="default"/>
+			<Result name="Satya called to thank me"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<Activity name="activity 8"/>
+			<ImportantActivity name="imp activity 9"/>
+			<Result name="Satya called to thank me"/>
+			<ImportantActivity name="imp activity 11"/>
+			<Result name="Received the ABIE Award"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+		</Day>
+		<Day date="18 Aug 2016">
+			<Mood code="default"/>
+			<ImportantActivity name="imp activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+			<Result name="Satya called to thank me"/>
+		</Day>
+		<Day date="19 Aug 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<ImportantActivity name="imp activity 7"/>
+			<ImportantActivity name="imp activity 8"/>
+			<Activity name="activity 9"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+			<ImportantActivity name="imp activity 12"/>
+		</Day>
+		<Day date="20 Aug 2016">
+			<Mood code="default"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<Activity name="activity 5"/>
+			<Activity name="activity 6"/>
+			<Result name="Received the ABIE Award"/>
+			<Activity name="activity 8"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<ImportantActivity name="imp activity 10"/>
+			<Activity name="activity 11"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 13"/>
+		</Day>
+		<Day date="21 Aug 2016">
+			<Mood code="frustrated"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Activity name="activity 2"/>
+			<Activity name="activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<Activity name="activity 5"/>
+			<Result name="Invitation to speak"/>
+			<Activity name="activity 7"/>
+			<Activity name="activity 8"/>
+			<Activity name="activity 9"/>
+		</Day>
+		<Day date="22 Aug 2016">
+			<Mood code="chaos"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<Result name="Received the ABIE Award"/>
+			<ImportantActivity name="imp activity 3"/>
+			<Activity name="activity 4"/>
+		</Day>
+		<Day date="23 Aug 2016">
+			<Mood code="chaos"/>
+			<Activity name="activity 0"/>
+			<Activity name="activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Activity name="activity 3"/>
+			<Result name="Investors keep calling to offer me money"/>
+			<Activity name="activity 5"/>
+		</Day>
+		<Day date="24 Aug 2016">
+			<Mood code="happy"/>
+			<Activity name="activity 0"/>
+			<ImportantActivity name="imp activity 1"/>
+			<ImportantActivity name="imp activity 2"/>
+			<ImportantActivity name="imp activity 3"/>
+			<ImportantActivity name="imp activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+		</Day>
+		<Day date="25 Aug 2016">
+			<Mood code="sad"/>
+			<Activity name="activity 0"/>
+			<Result name="Invitation to speak"/>
+			<ImportantActivity name="imp activity 2"/>
+			<Result name="Anna Patterson invited me for coffee"/>
+			<Activity name="activity 4"/>
+			<ImportantActivity name="imp activity 5"/>
+			<ImportantActivity name="imp activity 6"/>
+			<Result name="Received the ABIE Award"/>
+		</Day>
+	</Activities>
+</Timepiece>
+</Root>

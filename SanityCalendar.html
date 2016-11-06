@@ -1,0 +1,188 @@
+<html>
+<head>
+<title>Sanity Calendar</title>
+<script type="text/javascript" src="jquery-3.1.1.min.js"></script>
+<link   href="bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<h3>Sanity 2016</h3><br/><br/>
+<input type="file" id="fileInput"><br/><br/>
+<div id="fileDisplayArea"></div>
+<script>
+	var currentYear = 2016;
+	var columnWidth = 20;
+
+	var fileInput = document.getElementById('fileInput');
+    var fileDisplayArea = document.getElementById('fileDisplayArea');	
+
+	var moodCodeColors = [
+		{code: "trigger",    color: "Red"},
+		{code: "happy",      color: "Green"},
+		{code: "default",    color: "DarkSeaGreen"},
+		{code: "frustrated", color: "DarkKhaki"},
+		{code: "chaos",      color: "Maroon"},
+		{code: "worried",    color: "Gray"},
+		{code: "sad",        color: "SteelBlue"},
+		{code: "pit",        color: "Black"}
+	];
+
+	//document.getElementById("divId").innerHTML = "Sanity";
+	//$("#divId").html("sanity 2")
+
+	// Get data from xml
+	window.onload = function() {
+
+	    fileInput.addEventListener('change', function(e) {
+	      	var file = fileInput.files[0];
+			var textType = /text.*/;
+
+			if (file.type.match(textType)) {
+			  var reader = new FileReader();
+
+			  reader.onload = function(e) {
+			  	// start of the magic
+			    // fileDisplayArea.innerText = reader.result;
+			    var xmlData = reader.result;
+
+				// Parse the xml
+				//var xmlDoc = new DOMParser().parseFromString(xmlData, "text/xml");
+				// Fucking shit only returns the first timepiece for some reason in xmlDoc!
+				// Because you were missing a root tag to hold everythng.
+				
+				var xmlDoc = $.parseXML(xmlData);
+
+				drawCalendarTableWithMoodColors(fileDisplayArea, xmlDoc);
+
+			  } // end of the magic
+
+			  reader.readAsText(file);  
+			} else {
+			  fileDisplayArea.innerText = "File not supported!";
+			}
+	    });
+	}
+
+	// Helper methods
+
+	function drawCalendarTableWithMoodColors (target, doc) {
+		// months labels
+		startX = 0;
+
+		for(var index = 1; index <= 366; index++){
+			if(GetDayFromDayOfYear(index) == 1){
+				var p = document.createElement("p");
+				p.innerText = GetMonthFromDayOfYear(index);
+				p.style.position = "absolute";
+				p.style.top = "130px";
+				p.style.left = (startX + (index - 1) * columnWidth).toString() + "px";
+				target.appendChild(p);
+			}
+		}
+
+		// table
+
+		var tbl = document.createElement("table");
+		tbl.className = "table";
+		tbl.setAttribute('border', '1');
+		tbl.setAttribute('borderColor', 'grey');
+		tbl.style.tableLayout = "fixed";
+
+		var tbdy = document.createElement("tbody");
+		var tr = document.createElement("tr")
+
+		days = doc.getElementsByTagName("Day");
+		
+		var daysIndex = 0;
+		for(var index = 1; index <= 366; index++){
+
+			var td = document.createElement("td");
+			td.style.width = (columnWidth).toString() + "px";
+
+			var dayOfYearFromXml = GetDayOfYearFromDate(new Date(days[daysIndex].getAttribute("date")));
+
+			// get all the activities from that day, regardels of type
+			var dayActivities = new Array();
+			Array.prototype.push.apply(dayActivities, days[daysIndex].getElementsByTagName("Activity"));
+			Array.prototype.push.apply(dayActivities, days[daysIndex].getElementsByTagName("ImportantActivity"));
+			Array.prototype.push.apply(dayActivities, days[daysIndex].getElementsByTagName("Result"));
+
+			// get the color of that day - whitesmoke if the day is not documented
+			if(index == dayOfYearFromXml){
+				var moodCode = days[daysIndex].getElementsByTagName("Mood")[0].getAttribute("code");
+				td.style.backgroundColor = FindColorByMoodCode(moodCode);
+				
+				for(var i = 0; i < dayActivities.length; i++){
+					var p = document.createElement("p");
+					p.style.fontSize = "4px";
+					p.innerText = dayActivities[i].getAttribute("name");
+					if(dayActivities[i].tagName == "ImportantActivity"){
+						p.style.fontStyle = "italic";
+					}
+					else if(dayActivities[i].tagName == "Result"){
+						p.style.fontStyle = "bold";	
+					}
+					td.appendChild(p);
+					td.appendChild(document.createElement("br"));
+				}
+
+				if(daysIndex < days.length - 1){
+					daysIndex++;
+				}
+			}
+			else{
+				td.style.backgroundColor = "whitesmoke";
+			}
+
+			tr.appendChild(td);
+		}
+
+		tbdy.appendChild(tr);
+		tbl.appendChild(tbdy);
+		target.appendChild(tbl);
+	}
+
+	function GetDayOfYearFromDate(date){
+		var start = new Date(date.getFullYear(), 0, 0);
+		var diff = date - start;
+		var oneDay = 1000 * 60 * 60 * 24;
+		var day = Math.round(diff / oneDay);
+		return day;
+	}
+
+	function FindColorByMoodCode(code){
+		for(var i = 0; i < moodCodeColors.length; i++){
+			if(moodCodeColors[i].code == code){
+				return moodCodeColors[i].color;
+			}
+		}
+	}
+
+	function GetDayFromDayOfYear(dayNum) {
+		var date = new Date();
+	    date.setFullYear(currentYear);
+	    date.setMonth(0);
+	    date.setDate(0);
+	    var timeOfFirst = date.getTime(); // this is the time in milliseconds of 1/1/YYYY
+	    var dayMilli = 1000 * 60 * 60 * 24;
+	    var dayNumMilli = dayNum * dayMilli;
+	    date.setTime(timeOfFirst + dayNumMilli);
+	    return date.getDate();
+	}
+
+	function GetMonthFromDayOfYear(dayNum) {
+		var monthNames = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+		var date = new Date();
+	    date.setFullYear(currentYear);
+	    date.setMonth(0);
+	    date.setDate(0);
+	    var timeOfFirst = date.getTime();
+	    var dayMilli = 1000 * 60 * 60 * 24;
+	    var dayNumMilli = dayNum * dayMilli;
+	    date.setTime(timeOfFirst + dayNumMilli);
+	    return monthNames[date.getMonth()];
+	}
+
+
+</script>
+</body>
+</html>
