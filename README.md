@@ -10,14 +10,14 @@ Here, a Timepiece is a period of time, generally triggered by an epiphany. I wan
 
 Mood Color Codes
 
-Trigger    - Red
-Happy      - Green
-Default    - DarkSeaGreen
-Frustrated - DarkKhaki
-Chaos      - Maroon
-Worried    - Gray
-Sad        - SteelBlue
-Pit        - Black
+* Trigger    - Red
+* Happy      - Green
+* Default    - DarkSeaGreen
+* Frustrated - DarkKhaki
+* Chaos      - Maroon
+* Worried    - Gray
+* Sad        - SteelBlue
+* Pit        - Black
 
 These are the names of CSS colors: https://en.wikipedia.org/wiki/Web_colors
 
