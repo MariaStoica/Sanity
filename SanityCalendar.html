@@ -45,9 +45,6 @@
 			    var xmlData = reader.result;
 
 				// Parse the xml
-				//var xmlDoc = new DOMParser().parseFromString(xmlData, "text/xml");
-				// Fucking shit only returns the first timepiece for some reason in xmlDoc!
-				// Because you were missing a root tag to hold everythng.
 				
 				var xmlDoc = $.parseXML(xmlData);
 
